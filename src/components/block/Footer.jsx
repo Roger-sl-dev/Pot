@@ -18,7 +18,7 @@ export default function Footer() {
             <h3 className="text-xl font-semibold mb-4">Contato</h3>
             <ul className="text-sm space-y-2">
               <li>Email: <a href="mailto:contato@seudominio.com" className="hover:text-white">contato@seudominio.com</a></li>
-              <li>WhatsApp: <a href="https://wa.me/5500000000000" className="hover:text-white">(00) 90000-0000</a></li>
+              <li>WhatsApp: <a href="https://wa.me/5514991152236" className="hover:text-white">(14) 99115-2236</a></li>
               <li className="pt-2 flex space-x-4">
                 <a href="https://instagram.com" target="_blank" className="hover:text-white">Instagram</a>
                 <a href="https://github.com" target="_blank" className="hover:text-white">GitHub</a>

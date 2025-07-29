@@ -1,4 +1,6 @@
 import { useState } from "react";
+import "jsuites"
+import "jsuites/dist/jsuites.css"
 
 export default function ContactForm() {
   const [form, setForm] = useState({
@@ -112,6 +114,7 @@ export default function ContactForm() {
       <div>
         <label className="block font-medium">WhatsApp (opcional)</label>
         <input
+        data-mask='(00) 00000-0000'
           type="tel"
           name="whatsapp"
           value={form.whatsapp}
