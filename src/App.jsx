@@ -25,8 +25,7 @@ export default ()=>{
       </div>
      <section id="inicio" className=" grid place-items-center py-20 gap-5">
       <p className="  text-xl lg:text-2xl  capitalize p-2 rounded-lg bg-lime-300 text-black font-semibold text-center">software developer      </p>
-      <h2 className=" text-4xl lg:text-7xl capitalize text-white font-bold text-center font-prime">o desenvolvedor que esta
-      <br className=" hidden lg:flex"/>faltando no <span className=" text-lime-300">seu business  </span> </h2>
+      <h2 className=" text-4xl lg:text-7xl capitalize text-white font-bold text-center font-prime">o desenvolvedor que esta <br className=" hidden lg:flex"/>faltando no <span className=" text-lime-300">seu business  </span> </h2>
       <p className=" text-sm  lg:text-xl text-white  text-center font-semibold px-5 lg:px-28 font-prime">
       Está pronto para transformar suas ideias em softwares que geram lucro e dão superpoderes reais ao seu negócio? Vamos criar soluções que fazem você crescer de verdade.
 
