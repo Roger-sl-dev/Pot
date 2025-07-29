@@ -8,7 +8,7 @@ import { FaStar } from "react-icons/fa";
 export default ()=>{
     return(
         <>
-        <Marquee>
+        <Marquee pauseOnHover={true}>
           <Card
            Name='Juliana.M'
            Text='Trabalhar com o Roger foi uma das decisões mais acertadas que tomamos. Ele entendeu exatamente o que precisávamos, entregou antes do prazo e ainda sugeriu melhorias que fizeram toda a diferença. Hoje, nosso sistema é mais estável e rápido.'
